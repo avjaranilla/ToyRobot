@@ -10,8 +10,8 @@ Accepts commands from a file (commands.txt).
 
 📥 Installation
 Clone the repository:
-  git clone https://github.com/yourusername/toy-robot-simulator.git
-  cd toy-robot-simulator
+  git clone https://github.com/avjaranilla/ToyRobot.git
+  cd ToyRobot
 Open the project in Visual Studio or VS Code.
 
 Build and run the application:
