@@ -1,0 +1,14 @@
+C:\Users\Windows\Desktop\RobotSimulator\RobotSimulator\bin\Debug\net8.0\RobotSimulator.exe
+C:\Users\Windows\Desktop\RobotSimulator\RobotSimulator\bin\Debug\net8.0\RobotSimulator.deps.json
+C:\Users\Windows\Desktop\RobotSimulator\RobotSimulator\bin\Debug\net8.0\RobotSimulator.runtimeconfig.json
+C:\Users\Windows\Desktop\RobotSimulator\RobotSimulator\bin\Debug\net8.0\RobotSimulator.dll
+C:\Users\Windows\Desktop\RobotSimulator\RobotSimulator\bin\Debug\net8.0\RobotSimulator.pdb
+C:\Users\Windows\Desktop\RobotSimulator\RobotSimulator\obj\Debug\net8.0\RobotSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\RobotSimulator\RobotSimulator\obj\Debug\net8.0\RobotSimulator.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\RobotSimulator\RobotSimulator\obj\Debug\net8.0\RobotSimulator.AssemblyInfo.cs
+C:\Users\Windows\Desktop\RobotSimulator\RobotSimulator\obj\Debug\net8.0\RobotSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\RobotSimulator\RobotSimulator\obj\Debug\net8.0\RobotSimulator.dll
+C:\Users\Windows\Desktop\RobotSimulator\RobotSimulator\obj\Debug\net8.0\refint\RobotSimulator.dll
+C:\Users\Windows\Desktop\RobotSimulator\RobotSimulator\obj\Debug\net8.0\RobotSimulator.pdb
+C:\Users\Windows\Desktop\RobotSimulator\RobotSimulator\obj\Debug\net8.0\RobotSimulator.genruntimeconfig.cache
+C:\Users\Windows\Desktop\RobotSimulator\RobotSimulator\obj\Debug\net8.0\ref\RobotSimulator.dll
